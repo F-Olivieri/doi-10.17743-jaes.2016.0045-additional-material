@@ -21,6 +21,8 @@ The software uses the multiconvolve object by By Alex Harker and Pierre Alexandr
 https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox - http://eprints.hud.ac.uk/14897/ - 
 Harker, Alexander and Tremblay, Pierre Alexandre (2012) The HISSTools Impulse Response Toolbox: Convolution for the Masses. In: ICMC 2012: Non-cochlear Sound. The International Computer Music Association, pp. 148-155. ISBN 9780984527410
 
+[![DOI](https://zenodo.org/badge/20316/F-Olivieri/BeamformingTargetSig_Listen.svg)](https://zenodo.org/badge/latestdoi/20316/F-Olivieri/BeamformingTargetSig_Listen)
+
 Tested with Win and OSX 64-bit versions of MaxMSP 7.x.
 
 ## Instructions
