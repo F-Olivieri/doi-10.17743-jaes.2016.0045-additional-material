@@ -320,14 +320,14 @@
 					"fontsize" : 12.0,
 					"hidden" : 1,
 					"id" : "obj-59",
-					"linecount" : 4,
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 142.0, 634.0, 225.0, 62.0 ],
+					"patching_rect" : [ 142.0, 634.0, 428.0, 35.0 ],
 					"style" : "",
-					"text" : ";\rmax launchbrowser https://github.com/F-Olivieri/BeamformingAlgComp_Listen"
+					"text" : ";\rmax launchbrowser https://github.com/F-Olivieri/BeamformingTargetSig_Listen"
 				}
 
 			}
@@ -344,11 +344,11 @@
 					"outlettype" : [ "", "", "int" ],
 					"outputmode" : 0,
 					"parameter_enable" : 0,
-					"patching_rect" : [ 32.0, 584.593872, 324.789062, 21.40625 ],
+					"patching_rect" : [ 32.0, 584.593872, 326.130859, 21.40625 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 337.210938, 184.979172, 324.789062, 21.40625 ],
+					"presentation_rect" : [ 338.210938, 182.979172, 326.130859, 21.40625 ],
 					"style" : "",
-					"text" : "https://github.com/F-Olivieri/BeamformingAlgComp_Listen",
+					"text" : "https://github.com/F-Olivieri/BeamformingTargetSig_Listen",
 					"textcolor" : [ 0.15, 0.15, 0.15, 1.0 ],
 					"textoncolor" : [ 0.368627, 0.443137, 0.866667, 1.0 ],
 					"textovercolor" : [ 0.0, 0.0, 1.0, 1.0 ],
