@@ -13,7 +13,8 @@ If you use this software, please cite the paper below and share any modification
 ## Intro
 BeamformingTargetSig_Listen is a software written in Cycling 74 MaxMSP by Ferdinando Olivieri (F-Olivieri@users.noreply.github.com). 
 
-The software is associated to the paper  “-“.
+The software is associated to the paper:
+F. Olivieri, F. M. Fazi, P. A. Nelson, and S. Fontana, “Comparison of Strategies for Accurate Reproduction of a Target Signal with Compact Arrays of Loudspeakers for the Generation of Zones of Private Sound and Silence,” J. Audio Eng. Soc., vol. 64, no. 11, pp. 905–917, 2016. DOI: 10.17743/jaes.2016.0045. <http://www.aes.org/e-lib/browse.cfm?elib=18527>
 
 This MaxMSP patch allows the reader to listen to the simulated responses of the beamforming filters presented in the paper above. The responses of the filters are calculated using the measured in the ISVR anechoic chamber. More details about the filter design and measurement of their responses are given in the paper above.
 
